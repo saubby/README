@@ -39,20 +39,17 @@ function renderLicenseSection(license) {
     }
     else {
         return `##License
-        This project is licensed as ${license}
-        `
+        This project is licensed as ${license}`
     }
 }
 
 
 function Ans(acknowledge) {
-    return ` 
-    
-    # ${acknowledge.Title}
+    return `# ${acknowledge.Title}
 
       ${renderLicenseBadge(acknowledge.license)}
 
-    #Table of content
+    ## Table of content
     *[Description](#description)
     *[License](#license)
     *[Installation](#installation)

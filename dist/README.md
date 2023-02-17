@@ -1,9 +1,9 @@
-# Gas Leakage Detection System
+# GLDS
 
-      [![CC--0 license](https://img.shields.io/badge/License-CC--0-blue.svg)]
-        (https://creativecommons.org/licenses/by-nd/4.0)
+      [![Apache License 2.0 license](https://img.shields.io/badge/License-Apache License 2.0-blue.svg)]
+        (https://choosealicense.com/licenses/apache-2.0/)
 
-    #Table of content
+    ## Table of content
     *[Description](#description)
     *[License](#license)
     *[Installation](#installation)
@@ -13,26 +13,25 @@
     *[Questions](#questions)
    
     ## Description
-    It is iot based project which detects and prevents gases in vehicles 
+    Iot based
 
     ##License
-        This project is licensed as CC--0
-        
+        This project is licensed as Apache License 2.0
     
     ## Installation
-    its is mention in application
+    mentioned in app
 
     ## Usage
-    using MQ3 and alarm
+    in app
 
     ## Contribution
-    Sauban Alemin
+    saubby
     
     ## Tests
-    Tested by experts
+    yes
     
     ## Questions
-    yes
+    no
     Contact Info:
-    GitHub: [sauban](https://github.com/sauban)
-    Email: [sauban@gmail.com](mailto:sauban@gmail.com)
+    GitHub: [github.com/alm](https://github.com/github.com/alm)
+    Email: [almkz@gmail.com](mailto:almkz@gmail.com)
