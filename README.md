@@ -44,8 +44,13 @@ Run the following command at th root of your project and answer the prompted que
 node readme.js
 ```
 
+## Preview
+
+![Functionality of the code](/assets/Untitled_%20Feb%2018%2C%202023%201_10%20AM.gif)
+
 ## Deployment
 
 https://github.com/saubby/README
 
 https://drive.google.com/file/d/10ttpGcSw0YrsDAadwXfeWI6_SLewUkI-/view
+
